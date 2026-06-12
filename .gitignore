@@ -1,0 +1,57 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env/
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+._*
+.Spotlight-V100?
+._*
+.Spotlight-V100?
+
+# Logs
+*.log
+logs
+
+# OS files
+.DS_Store
+._*
+.Spotlight-V100
+._*
+.Spotlight-V100?
+
+# Keep screenshots tracked
+!screenshots/
+
+# Keep README tracked
+!README.md
+
+# Keep config.json tracked
+!config.json
+
+# Keep scripts tracked
+!scripts/
+
+# Keep other important files
+!*.md
+!*.txt
+!*.py
